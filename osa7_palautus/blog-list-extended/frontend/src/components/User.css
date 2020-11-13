@@ -1,0 +1,11 @@
+.user-table {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.blog-table {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
